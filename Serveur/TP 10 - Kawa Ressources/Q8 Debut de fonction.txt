@@ -1,0 +1,10 @@
+
+AnsiString Question, Reponse;
+
+if (Question == "Bonjour")
+	Reponse = "Ouais ? C'est pour quoi ?";
+else if (Question == "Ca va ?")
+	Reponse = "Oui oui merci.";
+else if (Question == "Un café")
+	Reponse = "Et s'il vous plait c'est en option";
+else ...

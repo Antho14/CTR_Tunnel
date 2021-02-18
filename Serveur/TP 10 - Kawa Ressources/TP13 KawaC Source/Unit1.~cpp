@@ -1,0 +1,47 @@
+//---------------------------------------------------------------------------
+
+#include <vcl.h>
+#pragma hdrstop
+
+#include "Unit1.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+#pragma resource "*.dfm"
+TForm_KawaC *Form_KawaC;
+//---------------------------------------------------------------------------
+__fastcall TForm_KawaC::TForm_KawaC(TComponent* Owner)
+  : TForm(Owner)
+{
+}
+//---------------------------------------------------------------------------
+
+void __fastcall TForm_KawaC::B_ConnecterClick(TObject *Sender)
+{
+    TClientSocket1->Open(); // a completer
+
+}
+//---------------------------------------------------------------------------
+
+void __fastcall TForm_KawaC::B_DeconnecterClick(TObject *Sender)
+{       // a completer
+
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm_KawaC::Timer1Timer(TObject *Sender)
+{
+// le timer ne sert qu'à l'affichage régulier de l'état de la connexion
+// (vert ou rouge) exmple : Shape1->Brush->Color = clGreen;
+
+        // a completer
+
+
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm_KawaC::B_SendRequestClick(TObject *Sender)
+{
+  // a completer
+
+}
+//---------------------------------------------------------------------------
+
+

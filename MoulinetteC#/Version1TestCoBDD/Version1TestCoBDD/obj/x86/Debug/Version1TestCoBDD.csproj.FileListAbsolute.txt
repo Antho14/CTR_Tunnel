@@ -1,0 +1,20 @@
+C:\Users\BTS_SN\AppData\Local\Temporary Projects\Version1TestCoBDD\obj\x86\Debug\Version1TestCoBDD.csprojResolveAssemblyReference.cache
+C:\Users\BTS_SN\AppData\Local\Temporary Projects\Version1TestCoBDD\obj\x86\Debug\Version1TestCoBDD.Form1.resources
+C:\Users\BTS_SN\AppData\Local\Temporary Projects\Version1TestCoBDD\obj\x86\Debug\Version1TestCoBDD.Properties.Resources.resources
+C:\Users\BTS_SN\AppData\Local\Temporary Projects\Version1TestCoBDD\obj\x86\Debug\Version1TestCoBDD.csproj.GenerateResource.Cache
+E:\PROJET FIN D'ANNEE\MoulinetteC#\Version1TestCoBDD\Version1TestCoBDD\bin\Debug\Version1TestCoBDD.exe
+E:\PROJET FIN D'ANNEE\MoulinetteC#\Version1TestCoBDD\Version1TestCoBDD\bin\Debug\Version1TestCoBDD.pdb
+E:\PROJET FIN D'ANNEE\MoulinetteC#\Version1TestCoBDD\Version1TestCoBDD\obj\x86\Debug\Version1TestCoBDD.csprojResolveAssemblyReference.cache
+E:\PROJET FIN D'ANNEE\MoulinetteC#\Version1TestCoBDD\Version1TestCoBDD\obj\x86\Debug\Version1TestCoBDD.Form1.resources
+E:\PROJET FIN D'ANNEE\MoulinetteC#\Version1TestCoBDD\Version1TestCoBDD\obj\x86\Debug\Version1TestCoBDD.Properties.Resources.resources
+E:\PROJET FIN D'ANNEE\MoulinetteC#\Version1TestCoBDD\Version1TestCoBDD\obj\x86\Debug\Version1TestCoBDD.csproj.GenerateResource.Cache
+E:\PROJET FIN D'ANNEE\MoulinetteC#\Version1TestCoBDD\Version1TestCoBDD\obj\x86\Debug\Version1TestCoBDD.exe
+E:\PROJET FIN D'ANNEE\MoulinetteC#\Version1TestCoBDD\Version1TestCoBDD\obj\x86\Debug\Version1TestCoBDD.pdb
+F:\PROJET FIN D'ANNEE\MoulinetteC#\Version1TestCoBDD\Version1TestCoBDD\obj\x86\Debug\Version1TestCoBDD.exe
+F:\PROJET FIN D'ANNEE\MoulinetteC#\Version1TestCoBDD\Version1TestCoBDD\obj\x86\Debug\Version1TestCoBDD.pdb
+F:\PROJET FIN D'ANNEE\MoulinetteC#\Version1TestCoBDD\Version1TestCoBDD\bin\Debug\Version1TestCoBDD.exe
+F:\PROJET FIN D'ANNEE\MoulinetteC#\Version1TestCoBDD\Version1TestCoBDD\bin\Debug\Version1TestCoBDD.pdb
+F:\PROJET FIN D'ANNEE\MoulinetteC#\Version1TestCoBDD\Version1TestCoBDD\obj\x86\Debug\Version1TestCoBDD.csprojResolveAssemblyReference.cache
+F:\PROJET FIN D'ANNEE\MoulinetteC#\Version1TestCoBDD\Version1TestCoBDD\obj\x86\Debug\Version1TestCoBDD.Form1.resources
+F:\PROJET FIN D'ANNEE\MoulinetteC#\Version1TestCoBDD\Version1TestCoBDD\obj\x86\Debug\Version1TestCoBDD.Properties.Resources.resources
+F:\PROJET FIN D'ANNEE\MoulinetteC#\Version1TestCoBDD\Version1TestCoBDD\obj\x86\Debug\Version1TestCoBDD.csproj.GenerateResource.Cache
